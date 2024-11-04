@@ -1,0 +1,10 @@
+CN:
+这个插件可以通过ext命令来延长地图时间
+当投票人数到达服务器内全部人的60%的时候即可延长10分钟
+一张地图最多延长三次，换图重置
+只适用于用mp_timelimit的服务器
+EN:
+This plugin can extend the map time with the ext command
+When the number of voters reaches 60% of the total number of people on the server, it can be extended by 10 minutes
+A map can be extended up to three times, and the map can be reset
+Only applicable to mp_timelimit servers
