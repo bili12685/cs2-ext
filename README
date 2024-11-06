@@ -8,3 +8,15 @@ This plugin can extend the map time with the ext command
 When the number of voters reaches 60% of the total number of people on the server, it can be extended by 10 minutes
 A map can be extended up to three times, and the map can be reset
 Only applicable to mp_timelimit servers
+
+
+## 关于 ISSUE
+
+以下 ISSUE 会被直接关闭
+
+- 询问已知问题
+- 提问找不到重点
+- 重复提问
+
+> 请注意, 开发者并没有义务回复您的问题. 您应该具备基本的提问技巧。  
+> 有关如何提问，请阅读[《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
